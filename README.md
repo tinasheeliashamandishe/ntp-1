@@ -35,7 +35,7 @@ The clocks of the network devices before NTP is configured.<br />
 <br />
 
 <h4> After NTP is configured:</h4> 
-The clocks of the network devices before NTP is configured.<br />
+The clocks of the network devices after NTP is configured.<br />
 <img src="https://i.imgur.com/HlBwUBo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <img src="https://i.imgur.com/hrRDtSU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <img src="https://i.imgur.com/Wh6NDMU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
